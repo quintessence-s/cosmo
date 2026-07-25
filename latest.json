@@ -2,5 +2,5 @@
   "version": "1.0.0",
   "notes": "First public release.",
   "url": "https://github.com/quintessence-s/cosmo/releases",
-  "bin": "https://github.com/quintessence-s/cosmo/releases/download/v1.0.0/cosmo-ota.bin"
+  "bin": "https://github.com/quintessence-s/cosmo/releases/download/1.0.0/cosmo-ota.bin"
 }
